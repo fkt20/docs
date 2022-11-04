@@ -33,7 +33,7 @@
 
 * [Network Details](general-1/network-details/README.md)
   * [Medifakt Mainnet](general-1/network-details/fuse-network-mainnet.md)
-  * [Medifakt Testnet Spark](general-1/network-details/fuse-testnet.md)
+  * [Medifakt Testnet Spark](general-1/network-details/medifakt-testnet-spark.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
   * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
     * [Upgrade Guide](general-1/network-details/network-upgrades/upgrade-guide.md)
@@ -51,19 +51,18 @@
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
   * [WalletConnect on Medifakt](general-1/resources-and-tools/walletconnect-on-fuse.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
-  * [Medifakt Token](general-1/important-smart-contracts/fuse-token.md)
-  * [Medifakt Dollar](general-1/important-smart-contracts/fuse-dollar.md)
+  * [Medifakt Token](general-1/important-smart-contracts/medifakt-token.md)
+  * [Medifakt Dollar](general-1/important-smart-contracts/medifakt-dollar.md)
   * [Major Deployed Contracts](general-1/important-smart-contracts/major-deployed-contracts.md)
   * [Bridges](general-1/important-smart-contracts/bridges/README.md)
-    * [Ethereum ↔ Medifakt GoodDollar Token](general-1/important-smart-contracts/bridges/ethereum-fuse-gooddollar-token.md)
-    * [Ethereum ↔ Medifakt TL20 Tokens](general-1/important-smart-contracts/bridges/ethereum-fuse-erc20-tokens.md)
-    * [BSC ↔ Medifakt BNB](general-1/important-smart-contracts/bridges/bsc-fuse-bnb.md)
-    * [BSC ↔ Medifakt Native](general-1/important-smart-contracts/bridges/bsc-fuse-native.md)
-    * [BSC  ↔ Medifakt TL20](general-1/important-smart-contracts/bridges/bsc-fuse-erc20.md)
-    * [Ethereum ↔ Medifakt Native](general-1/important-smart-contracts/bridges/ethereum-fuse-native.md)
+    * [Ethereum ↔ Medifakt GoodDollar Token](general-1/important-smart-contracts/bridges/ethereum-medifakt-gooddollar-token.md)
+    * [Ethereum ↔ Medifakt TL20 Tokens](general-1/important-smart-contracts/bridges/ethereum-medifakt-tl20-tokens.md)
+    * [BSC ↔ Medifakt BNB](general-1/important-smart-contracts/bridges/bsc-medifakt-bnb.md)
+    * [BSC ↔ Medifakt Native](general-1/important-smart-contracts/bridges/bsc-medifakt-native.md)
+    * [BSC ↔ Medifakt TL20](general-1/important-smart-contracts/bridges/bsc-medifakt-tl20.md)
+    * [Ethereum ↔ Medifakt Native](general-1/important-smart-contracts/bridges/ethereum-medifakt-native.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the Spark testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
 
 ## Links
 
@@ -75,4 +74,3 @@
 * [Telegram](https://t.me/)
 * [Twitter](https://twitter.com/)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
-<!-- * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549) -->
